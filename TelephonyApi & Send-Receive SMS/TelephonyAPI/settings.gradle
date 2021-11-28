@@ -1,0 +1,2 @@
+rootProject.name = "TelephonyAPI"
+include ':app'
